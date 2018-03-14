@@ -53,9 +53,9 @@ public class EmployeeDatabase {
      * @return int
      */
     public int countManagersAbove(final Employee employee) {
-        /*
-         * Implement this function
-         */
+
+
+        countManagersAbove();
     }
 
     /**
@@ -69,7 +69,7 @@ public class EmployeeDatabase {
     public int countEmployeesUnder(final Employee employee) {
         /*
          * Implement this function
-         */
+         */////////////////////////////////////////
     }
 
     /**
